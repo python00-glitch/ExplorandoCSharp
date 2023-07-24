@@ -1,0 +1,15 @@
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\bin\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.exe
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\bin\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.deps.json
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\bin\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.runtimeconfig.json
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\bin\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\bin\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.pdb
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.csproj.AssemblyReference.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.AssemblyInfoInputs.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.AssemblyInfo.cs
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\refint\ExemplosExplorando - Aula2 - Parte 2.dll
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.pdb
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ExemplosExplorando - Aula2 - Parte 2.genruntimeconfig.cache
+C:\Users\rosel\OneDrive\Documentos\Estudos DIO\Estudos C# - DIO\ExemplosExplorando - Aula2 - Parte 2\obj\Debug\net7.0\ref\ExemplosExplorando - Aula2 - Parte 2.dll
